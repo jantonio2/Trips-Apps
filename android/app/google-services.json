@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341760579297",
+    "project_id": "tripsapp-3bf29",
+    "storage_bucket": "tripsapp-3bf29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341760579297:android:fb7621ee283a5a6b6809a0",
+        "android_client_info": {
+          "package_name": "com.example.app_trips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341760579297-n1ep19rs1emh13m7momu0usqiq9tobsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_trips",
+            "certificate_hash": "a921a23c39cfbf18fa6d666ead5ff0a64b5f4f89"
+          }
+        },
+        {
+          "client_id": "341760579297-l3csqkra27npv9he969qphro982t61jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NbChaeXnyTvsFWjnUwFZdq_wDjqYsD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341760579297-l3csqkra27npv9he969qphro982t61jt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
